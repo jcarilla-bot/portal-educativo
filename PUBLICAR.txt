@@ -1,0 +1,16 @@
+PORTAL EDUCATIVO DE JESÚS CARILLA
+
+1. Crear un repositorio en GitHub llamado portal-educativo.
+2. Subir el CONTENIDO de esta carpeta conservando assets/ y simuladores/. No subir el ZIP.
+3. En https://share.streamlit.io conectar GitHub y pulsar Create app.
+4. Elegir el repositorio, rama main y archivo principal portal.py.
+5. Seleccionar Python 3.12 en Advanced settings y publicar.
+6. Probar los cuatro apartados en la dirección pública.
+
+VISITAS: en el panel de Streamlit, menú de la aplicación > Analytics.
+No aparece un contador en el portal. Para mantener las estadísticas solo para ti,
+no invites a otras personas al espacio de administración. Comparte la URL pública.
+
+El Profesor Virtual sigue siendo una aplicación externa enlazada.
+Este paquete no contiene claves API ni documentos del vector store.
+AdSense no se ha incorporado.
